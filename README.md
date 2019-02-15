@@ -1,4 +1,4 @@
-# Dad Jokes
+# Flutter app
 
 [![Codemagic build status](https://api.codemagic.io/apps/5c5d69d85e0ce3000fe4d7de/5c5d69d85e0ce3000fe4d7dd/status_badge.svg)](https://codemagic.io/apps/5c5d69d85e0ce3000fe4d7de/5c5d69d85e0ce3000fe4d7dd/latest_build)
 
